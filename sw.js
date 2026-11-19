@@ -11,8 +11,8 @@ const ROOT = new URL('./', self.location.href).href;
 
 const SHELL = [ROOT, INDEX, new URL('./manifest.webmanifest', self.location.href).href];
 const GENERATED = [
-  "./assets/index-3aZMfXqo.css",
-  "./assets/index-C0OKlq2g.js",
+  "./assets/index-Bj92rum1.css",
+  "./assets/index-C_GQj7e8.js",
   "./assets/vlab_engine_bg-DHFBlFGD.wasm",
   "./icons/icon-180.png",
   "./icons/icon-192.png",
